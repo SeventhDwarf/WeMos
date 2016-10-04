@@ -1,7 +1,3 @@
---load credentials
---SID and PassWord should be saved according wireless router in use
---dofile("credentials.lua")
-
 MAIN = "MicroWordClock.lua"
 
 function startup()
