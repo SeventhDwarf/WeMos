@@ -1,5 +1,5 @@
 
-local NUM_LEDS = 7
+local NUM_LEDS = 30
 local TYPE_LED = 4  -- 4: RGBW, 3: RGB
 
 ws2812.init()
