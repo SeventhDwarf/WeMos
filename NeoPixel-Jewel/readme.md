@@ -8,7 +8,7 @@ Using the Adafruit NeoPixel Jewel to make a nice demonstrator.
 - **media**, pictures and videos
 
 ##Required modules in [custom build](https://nodemcu-build.com/)
-bit, node, tmr, w2812
+bit, node, tmr, ws2812
 
 ##Bill of Materials
 - [WeMos D1 mini](https://www.wemos.cc/product/d1-mini.html) or [WeMos D1 mini pro](https://www.wemos.cc/product/d1-mini-pro.html)
@@ -17,7 +17,7 @@ bit, node, tmr, w2812
 - [WeMos Mini battery shield](https://www.wemos.cc/product/battery-shield.html) (optional)
 
 ##What it looks like
-![alt_text](https://raw.githubusercontent.com/SeventhDwarf/WeMos/master/images/no-image-icon-23500.jpg)
+![alt_text](https://raw.githubusercontent.com/SeventhDwarf/WeMos/master/NeoPixel-Jewel/media/WeMos-NeoPixel-Jewel.png)
 
 ##License
 This project (both software and hardware) is published under a [Creative Commons BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/).
