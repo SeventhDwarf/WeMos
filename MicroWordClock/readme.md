@@ -23,5 +23,9 @@ bit, i2c, net, node, rtctime, sntp, tmr, wifi
 - [Adafruit Mini 8x8 LED matrix with I²C backpack](https://www.adafruit.com/products/872)
 - [WeMos Mini battery shield](https://www.wemos.cc/product/battery-shield.html)
 
+##What it looks like
+![MWC_Picture](https://raw.githubusercontent.com/SeventhDwarf/WeMos/master/MicroWordClock/media/WeMos-MicroWordClock.jpg)
+
 ##License
 This project (both software and hardware) is published under a [Creative Commons BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/).
+
