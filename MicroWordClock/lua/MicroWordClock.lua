@@ -100,10 +100,6 @@ end
     end
     updateTime()
 
---	Init wifi
--- TODO
- 
-
 --  Start timer
     ht.writeDisplay(testdisp, true)         -- Shortly show test pattern
     tmr.alarm(0,400,tmr.ALARM_SINGLE,function()
