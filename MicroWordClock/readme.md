@@ -13,6 +13,7 @@ Based on the work from Daniel this implemenation has the following major differe
 ##Directory structure
 - **lua** contains the lua source code and the ht16k33 driver.
 - **graphics** contains the design for the transparency sheet to place over the LED matrix to form the words.
+- **media**, pictures and videos
 
 ##Required modules in [custom build](https://nodemcu-build.com/)
 bit, i2c, net, node, rtctime, sntp, tmr, wifi
@@ -21,7 +22,7 @@ bit, i2c, net, node, rtctime, sntp, tmr, wifi
 - [WeMos D1 mini](https://www.wemos.cc/product/d1-mini.html) or [WeMos D1 mini pro](https://www.wemos.cc/product/d1-mini-pro.html)
 - [WeMos Mini ProtoBoard](https://www.wemos.cc/product/protoboard.html)
 - [Adafruit Mini 8x8 LED matrix with I²C backpack](https://www.adafruit.com/products/872)
-- [WeMos Mini battery shield](https://www.wemos.cc/product/battery-shield.html)
+- [WeMos Mini battery shield](https://www.wemos.cc/product/battery-shield.html) (optional)
 
 ##What it looks like
 ![MWC_Picture](https://raw.githubusercontent.com/SeventhDwarf/WeMos/master/MicroWordClock/media/WeMos-MicroWordClock.jpg)
