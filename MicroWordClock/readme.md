@@ -14,6 +14,9 @@ Based on the work from Daniel this implemenation has the following major differe
 - **lua** contains the lua source code and the ht16k33 driver.
 - **graphics** contains the design for the transparency sheet to place over the LED matrix to form the words.
 
+##Required modules in [custom build](https://nodemcu-build.com/)
+bit, i2c, net, node, rtctime, sntp, tmr, wifi
+
 ##Bill of Materials
 - [WeMos D1 mini](https://www.wemos.cc/product/d1-mini.html) or [WeMos D1 mini pro](https://www.wemos.cc/product/d1-mini-pro.html)
 - [WeMos Mini ProtoBoard](https://www.wemos.cc/product/protoboard.html)
