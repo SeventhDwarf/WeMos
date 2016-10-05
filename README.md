@@ -1,7 +1,7 @@
 # WeMos
 Projects using the Wemos D1 Mini, ESP8266 based WiFi microcontroller board
 
-| WemosPin 	| Function     	| Special Function 	| PU/PD 	| ESP-8266Pin 	| DHT 	| DHT Pro 	| OLED 64x48 	| 1-Button   	| WS2812B 	| Relay V2 	| Motor             	| MicroSD 	| Battery 	| Proto 	| 8x8 LED Matrix    	| OLED 128x64 	| SI7021 	| Neopixel Jewel 7 	| Comment        	|
+| Wemos Pin 	| Function     	| Special Function 	| PU/PD 	| ESP-8266 Pin 	| DHT 	| DHT Pro 	| OLED 64x48 	| 1-Button   	| WS2812B 	| Relay V2 	| Motor             	| MicroSD 	| Battery 	| Proto 	| 8x8 LED Matrix    	| OLED 128x64 	| SI7021 	| Neopixel Jewel 7 	| Comment        	|
 |----------	|--------------	|-----------------	|-------	|-------------	|-----	|---------	|-----------	|------------	|---------	|----------	|-------------------	|---------	|---------	|-------	|-------------------	|------------	|--------	|-----------------	|----------------	|
 | TX       	| TXD          	|                 	|       	| TXD         	|     	|         	|           	|            	|         	|          	|                   	|         	|         	| x     	|                   	|            	|        	|                 	|                	|
 | RX       	| RXD          	|                 	|       	| RXD         	|     	|         	|           	|            	|         	|          	|                   	|         	|         	| x     	|                   	|            	|        	|                 	|                	|
