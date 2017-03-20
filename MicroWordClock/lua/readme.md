@@ -1,4 +1,4 @@
-##Required files
+## Required files
 
 - init.lua                        -- required to start the main code after reset/wake-up
 - wifi_config.lua                 -- configuration data like SSID and password
